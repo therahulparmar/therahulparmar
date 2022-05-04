@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @therahulparmar
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning AI ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in the field of Data Science
+- 🌱 I’m currently working as AI ML Engineer
+- 💞️ I’m looking to collaborate on the projects of ML and DL
+- 📫 How to reach me ... 
 
 <!---
 therahulparmar/therahulparmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
